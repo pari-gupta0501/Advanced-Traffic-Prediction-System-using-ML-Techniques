@@ -1,4 +1,3 @@
-# Advanced-Traffic-Prediction-System-using-ML-Techniques
 # 🚦 Advanced Traffic Prediction System using ML Techniques
 
 <p align="center">
