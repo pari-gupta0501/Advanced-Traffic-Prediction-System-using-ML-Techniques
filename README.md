@@ -1,4 +1,4 @@
-# 🚦 Advanced Traffic Prediction System using ML Techniques
+# 🚦 Advanced Traffic Prediction System using ML Techniques - Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and Linear Regression (LR)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Traffic%20Prediction-blueviolet" />
