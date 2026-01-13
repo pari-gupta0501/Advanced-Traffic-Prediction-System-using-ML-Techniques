@@ -115,8 +115,8 @@ jupyter notebook
 ## 👩‍💻 Author
 
 **Pari Gupta**
-### B.Tech (IT) | AI & ML Enthusiast
-### 📧 Email: [pari.gupta512005@gmail.com](mailto:pari.gupta512005@gmail.com)
+# B.Tech (IT) | AI & ML Enthusiast
+## 📧 Email: [pari.gupta512005@gmail.com](mailto:pari.gupta512005@gmail.com)
 ### 🔗 LinkedIn: [www.linkedin.com/in/pari-gupta-pp061023](https://www.linkedin.com/in/pari-gupta-pp061023)
 ### 💻 GitHub: [www.github.com/pari-gupta0501](https://www.github.com/pari-gupta0501)
 
